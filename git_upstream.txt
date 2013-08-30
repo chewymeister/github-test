@@ -1,0 +1,1 @@
+Answer: The upstream remote cannot push, it can only pull public repositories. It is typically used for experimentation. A developer can clone a repository for their own experimentation via an upstream remote, but the changes made cannot be pushed back to the original repository.
