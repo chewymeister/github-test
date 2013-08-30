@@ -1,0 +1,1 @@
+Answer: Git clone is a shortcut that allows you to pull a public repository into your local repository. If the repository does not exist, then it will initialise a repository for you.
